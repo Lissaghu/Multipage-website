@@ -1,0 +1,9 @@
+@media (max-width: 1320px) {
+    .navig {
+        left: calc((100% - 95%) / 2 );
+    }
+    
+    .wrapper {
+        width: 95%;
+    }
+}
